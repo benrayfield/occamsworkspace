@@ -1,7 +1,7 @@
 # occamsworkspace
 ben rayfield's research workspace, that runs when you doubleclick startInWindows.bat (todo also startInLinux.sh) and can be set up in Eclipse etc, still some projects to merge in, trying to keep things simple (occams razor)
 
-To run it in win10 (possibly other versions of windows, TODO linux) --- If using the GPU parts, verify your GPU supports opencl 1.2 or higher ---
+To run it in win10 (possibly other versions of windows, TODO linux) --- If using the GPU parts, verify your GPU supports opencl 1.2 or higher, heres an incomplete list of supported GPUs https://www.khronos.org/conformance/adopters/conformant-products/opencl ---
 download zip from https://github.com/benrayfield/occamsworkspace/ ---
 unzip the openjdk-11.0.2_windows-x64_bin.7z.001 (auto includes .002) into selfContained\data\lib\openjdk-11.0.2_windows-x64_bin (cuz github wont allow files bigger than 100mB) --- double click selfContained/startInWindows.bat
 --- window opens

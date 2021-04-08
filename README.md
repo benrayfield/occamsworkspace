@@ -9,7 +9,7 @@ unzip the openjdk-11.0.2_windows-x64_bin.7z.001 (auto includes .002) into selfCo
 
 (planning for startInLinux.sh to also work, but will have to include lwjgl2 linux version first)
 
-This includes GPU code, that should automatically work.
+This includes GPU code, that should automatically work. If it doesnt, try replacing the lwjgl2 jar and dll (or whatever they have for linux etc). Java is very cross-platform already.
 
 <img src=https://raw.githubusercontent.com/benrayfield/occamsworkspace/main/selfContained/data/pics/2021-5-8-9a.png>
 

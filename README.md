@@ -1,5 +1,5 @@
 # occamsworkspace
-ben rayfield's research workspace, that runs when you doubleclick startInWindows.bat and can be set up in Eclipse etc, still some projects to merge in, trying to keep things simple (occams razor)
+ben rayfield's research workspace, that runs when you doubleclick startInWindows.bat (todo also startInLinux.sh) and can be set up in Eclipse etc, still some projects to merge in, trying to keep things simple (occams razor)
 
 To run it in win10 (possibly other versions of windows, TODO linux) ---
 download zip from https://github.com/benrayfield/occamsworkspace/ ---

@@ -1,0 +1,4 @@
+[1.6168491000275226e9,"lazyclExperiments",{"def" :"","prilist" :["---works---","---todo---","start","delfaultDownStack","l"],"uiTime" :1.6168490585874984e9}]
+[1.616852254940424e9,"lazyclExperiments",{"def" :"","prilist" :["lazyclExperiments","---works---","immutable.lazycl.impl.TestLazyclPrototype","---todo---","start","delfaultDownStack","l"],"uiTime" :1.616849223600038e9}]
+[1.6169374201678495e9,"lazyclExperiments",{"def" :"","prilist" :["lazyclExperiments","immutable.lazycl.impl.TestLazyclPrototype","---works---","mutable.compilers.opencl.TestOpencl.main","---todo---","start","delfaultDownStack","l"],"uiTime" :1.6169374003173513e9}]
+[1.617634260753571e9,"lazyclExperiments",{"def" :"","prilist" :["lazyclExperiments","immutable.lazycl.impl.TestLazyclPrototype","---works---","mutable.compilers.opencl.TestOpencl.main","---todo---","start","delfaultDownStack","l"],"uiTime" :1.6176342213693593e9}]

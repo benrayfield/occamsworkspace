@@ -1,0 +1,13 @@
+{
+	"def" :
+	"java:mutable.compilers.opencl.TestOpencl.main(new String[0])",
+	"prilist" :
+	[
+		"mutable.compilers.opencl.TestOpencl.main",
+		"lazyclExperiments",
+		"delfaultDownStack",
+		"m"
+	],
+	"uiTime" :
+	1.6169376725491357e9
+}

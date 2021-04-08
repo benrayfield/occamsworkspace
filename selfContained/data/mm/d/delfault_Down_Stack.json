@@ -1,0 +1,44 @@
+{
+	"def" :
+	"",
+	"prilist" :
+	[
+		"start",
+		"lstmExperiments",
+		"parallelRecurrentjavaOnRecordedMouse_5",
+		"d"
+	],
+	"selectedName" :
+	"lstmExperiments",
+	"uiTime" :
+	1.617886783030291e9,
+	"views" :
+	{
+		"d" :
+		{
+			"prilistScrollYFraction" :
+			0,
+			"selectedName" :
+			"d"
+		},
+		"lstmExperiments" :
+		{
+			"prilistScrollYFraction" :
+			0.16289592760180996,
+			"selectedName" :
+			"parallelRecurrentjavaOnRecordedMouse_3"
+		},
+		"parallelRecurrentjavaOnRecordedMouse_5" :
+		{
+			"prilistScrollYFraction" :
+			0
+		},
+		"start" :
+		{
+			"prilistScrollYFraction" :
+			0,
+			"selectedName" :
+			"lstmExperiments"
+		}
+	}
+}

@@ -1,0 +1,1 @@
+"%CD%\data\lib\openjdk-11.0.2_windows-x64_bin\bin\java.exe" -Djava.library.path="%CD%\data\lib" -cp "%CD%\data\code;%CD%\data\lib\jython-standalone-2.7.2.jar;%CD%\data\lib\lwjgl.jar;%CD%\data\lib\javassistUnknownVersionY2017.jar;%CD%\data\lib\Beanshell_2.0b4_useAsJar_or_unzipToGetSource.jar" -Xmx10g start.Start

@@ -1,0 +1,17 @@
+{
+	"def" :
+	"",
+	"prilist" :
+	[
+		"lazyclExperiments",
+		"immutable.lazycl.impl.TestLazyclPrototype",
+		"---works---",
+		"mutable.compilers.opencl.TestOpencl.main",
+		"---todo---",
+		"start",
+		"delfaultDownStack",
+		"l"
+	],
+	"uiTime" :
+	1.6176342213693593e9
+}

@@ -1,0 +1,13 @@
+{
+	"def" :
+	"removed forestop\n\njava:mutable.compilers.opencl.OpenclUtil.test_callOpenclForest()",
+	"prilist" :
+	[
+		"forestopExperiments",
+		"m",
+		"defaultUpStack",
+		"delfaultDownStack"
+	],
+	"uiTime" :
+	1.6169368146576655e9
+}

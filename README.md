@@ -10,6 +10,8 @@ double click selfContained/startInWindows.bat
 
 This includes GPU code, that should automatically work.
 
+<img src=https://raw.githubusercontent.com/benrayfield/occamsworkspace/main/selfContained/data/pics/2021-5-8-9a.png>
+
 
 A self contained workspace you can copy/paste to other computers, OS, andOr dirs, run startIn* file, and a window appears on screen, server starts, etc, automatically. Further options are available within the program.
 

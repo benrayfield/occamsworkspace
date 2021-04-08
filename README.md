@@ -1,10 +1,11 @@
 # occamsworkspace
 ben rayfield's research workspace, that runs when you doubleclick startInWindows.bat and can be set up in Eclipse etc, still some projects to merge in, trying to keep things simple (occams razor)
 
-To run it in win10 (possibly other versions of windows, TODO linux),
-download zip from https://github.com/benrayfield/occamsworkspace/
-unzip the openjdk-11.0.2_windows-x64_bin.7z.001 (auto includes .002) into selfContained\data\lib\openjdk-11.0.2_windows-x64_bin
-double click selfContained/startInWindows.bat
+To run it in win10 (possibly other versions of windows, TODO linux) ---
+download zip from https://github.com/benrayfield/occamsworkspace/ ---
+unzip the openjdk-11.0.2_windows-x64_bin.7z.001 (auto includes .002) into selfContained\data\lib\openjdk-11.0.2_windows-x64_bin (cuz github wont allow files bigger than 100mB) --- double click selfContained/startInWindows.bat
+--- window opens
+--- left click a name to go in, right click to go out, both clicks at once to select, then >>> button on an experiment to run it on right.
 
 (planning for startInLinux.sh to also work, but will have to include lwjgl2 linux version first)
 
